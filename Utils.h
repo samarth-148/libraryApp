@@ -1,25 +1,7 @@
-/***********************************************************************
-// OOP244 Utils Module
-// File  utils.h
-// Version
-// Author
-// Description
-//
-// Revision History
-// -----------------------------------------------------------
-// Name            Date            Reason
-/////////////////////////////////////////////////////////////////
-***********************************************************************/
 /**************************************************
 
 Name : Samarth Shaileshkumar Patel
 Email: sspatel74@myseneca.ca
-student ID:143147213
-section:NKK
------------------------------------------------------------
-I have done all the coding by myself and only copied the code 
-that my professor provided to complete my project milestones.
------------------------------------------------------------
 
 ***********************************************/
 
